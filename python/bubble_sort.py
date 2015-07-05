@@ -1,7 +1,7 @@
 # Swap element and proceed to next pair
 # Keep running through the list until all elements are sorted
 
-def bubblesort(S):
+def bubble_sort(S):
     is_sorted = False
     while not is_sorted:
         is_sorted = True	
